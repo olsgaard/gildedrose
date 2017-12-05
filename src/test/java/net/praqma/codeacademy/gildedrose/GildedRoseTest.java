@@ -12,7 +12,7 @@ public class GildedRoseTest {
         //GildedRose app = new GildedRose(items);
         //app.updateQuality();
         //assertEquals("fixme", app.items[0].name);
-        assertEquals("T", "T")
+        assertEquals("T", "T");
     }
 
 }
